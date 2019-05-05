@@ -4,4 +4,4 @@ In parallel with signal processing development, medical usage of diagnostic inst
 The project's goal is to create a reliable classifier for patient diagnosing of a lung disease called COPD based on recording of his lung sounds using electronic stethoscope.
 In the project we examined several options for classifying the disease, we compared between them and presented the advantages and disadvantages of using each one.    
 
-for more details, check Project Book File. 
+For more details about the project, download the Project Book file above. (Word)  
